@@ -2,3 +2,5 @@
 The class materials
 The exam
 Grade
+How it works
+
